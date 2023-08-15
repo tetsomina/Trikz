@@ -22,3 +22,8 @@
         ████████▀        ▀██████▀        ▀█   █▀         ███             █▀          ████████▀       
                                                                                              
 
+
+
+## Credits
+- [Kamay](https://github.com/xutaxkamay)
+- [Sxturn](https://github.com/sxturndev)
